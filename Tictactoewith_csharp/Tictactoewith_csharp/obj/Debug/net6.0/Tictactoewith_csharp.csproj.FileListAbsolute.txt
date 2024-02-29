@@ -1,0 +1,4 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Tictactoewith_csharp\Tictactoewith_csharp\obj\Debug\net6.0\Tictactoewith_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Tictactoewith_csharp\Tictactoewith_csharp\obj\Debug\net6.0\Tictactoewith_csharp.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Tictactoewith_csharp\Tictactoewith_csharp\obj\Debug\net6.0\Tictactoewith_csharp.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Tictactoewith_csharp\Tictactoewith_csharp\obj\Debug\net6.0\Tictactoewith_csharp.csproj.CoreCompileInputs.cache
